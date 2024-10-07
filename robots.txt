@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esomanti.github.io/sitemap.html.gz
+Sitemap: https://esomanti.github.io/app/sitemap.html.gz
+Sitemap: https://esomanti.github.io/assets/sitemap.html.gz
+Sitemap: https://esomanti.github.io/css/sitemap.html.gz
+Sitemap: https://esomanti.github.io/data/sitemap.html.gz
+Sitemap: https://esomanti.github.io/includes/sitemap.html.gz
+Sitemap: https://esomanti.github.io/item/sitemap.html.gz
+Sitemap: https://esomanti.github.io/src/sitemap.html.gz
